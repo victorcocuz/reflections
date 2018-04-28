@@ -6,3 +6,9 @@ It's in between. It callects all files and creates a single commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Just add what you need...
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you add new features or test stuff.
+
+How do the diagrams help you visualize the branch structure?
+They help visualise the branch structure!!! BECAUSE THEY DO!!!
