@@ -12,3 +12,9 @@ When you add new features or test stuff.
 
 How do the diagrams help you visualize the branch structure?
 They help visualise the branch structure!!! BECAUSE THEY DO!!!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+this is bullshit and it didn't work for me. had to abort merge
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic would mess up your code in certain times. Manually it's too tedious, a computer can do most of it.
